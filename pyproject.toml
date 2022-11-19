@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "blob"
+version = "0.1.0"
+description = "hi"
+authors = ["matt"]
+license = "mit"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pendulum = "^2.1"
+mkdocs = "^1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
