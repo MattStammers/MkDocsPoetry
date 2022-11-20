@@ -1,0 +1,5 @@
+poetry
+pipenv
+pipx
+mkdocs
+mkdocs-material
